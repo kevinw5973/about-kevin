@@ -1,12 +1,15 @@
-Kevin Wang
+# Kevin Wang
 
-kevinw5973@hstat.org
-
-
-HSTAT
-
+### HSTAT kevinw5973@hstat.org
 
 Hi, I like to sit.
 
-
-Schedule: Phys Ed, English, SEP, APUSH, Lunch, Math, Spanish, Physics
+Schedule:
+* Phys Ed
+* English
+* SEP
+* APUSH
+* Lunch
+* Math
+* Spanish
+* Physics
