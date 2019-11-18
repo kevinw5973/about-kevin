@@ -1,11 +1,14 @@
 # __Kevin Wang__
 
-### HSTAT *kevinw5973@hstat.org*
+### HSTAT
 
-Hi, I like to [sit.](https://www.google.com/search?q=chair+image&oq=chair+image&aqs=chrome..69i57.1255j0j1&sourceid=chrome&ie=UTF-8)
+__Email:__
+*kevinw5973@hstat.org*
+
+__Bio:__  Hi, I like to [sit.](https://www.google.com/search?q=chair+image&oq=chair+image&aqs=chrome..69i57.1255j0j1&sourceid=chrome&ie=UTF-8)
 I don't like to babysit.
 
-Schedule:
+__Schedule:__
 1. Phys Ed
 2. English
 3. SEP
@@ -15,7 +18,7 @@ Schedule:
 7. Spanish
 8. Physics
 
-
+__Unorder List:__
 * This
     * is
         * an
